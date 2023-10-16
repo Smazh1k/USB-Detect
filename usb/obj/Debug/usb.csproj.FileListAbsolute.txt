@@ -1,0 +1,7 @@
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\bin\Debug\usb.exe.config
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\bin\Debug\usb.exe
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\bin\Debug\usb.pdb
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\obj\Debug\usb.csproj.AssemblyReference.cache
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\obj\Debug\usb.csproj.CoreCompileInputs.cache
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\obj\Debug\usb.exe
+C:\Users\ismaz\Source\Repos\USB-Detect\usb\obj\Debug\usb.pdb
